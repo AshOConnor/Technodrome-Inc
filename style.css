@@ -555,3 +555,12 @@ display:inline-block;
     border-style: solid;
     border-width: 5px;
   }
+
+  .toolsimage {
+    display: inline;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 22%;
+    height: 25%;
+
+  }
