@@ -564,3 +564,14 @@ display:inline-block;
     height: 25%;
 
   }
+
+  .timeframeimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border-color: #0C6861;
+    border-style: solid;
+    border-width: 5px;
+    
+  }
